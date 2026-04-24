@@ -175,7 +175,7 @@ for feat_uri, code_path in feature_code_paths.items():
 ## 产品域目录
 
 ```
-PRD 文档路径: /Users/wenbo/Documents/project/product_managment/docs/PRD研发文档/应用菜单目录/
+PRD 文档路径: /System/Volumes/Data/Users/wenbo/Documents/文档仓库/产品管理项目/PRD/
 
 04-PD-MKT-数字营销/
   01-触达系统-v5.0.md      (EPIC-MKT-REACH) ✅
@@ -189,7 +189,7 @@ PRD 文档路径: /Users/wenbo/Documents/project/product_managment/docs/PRD研�
 
 | 用途 | 路径 |
 |:---|:---|
-| PRD 文档目录 | /Users/wenbo/Documents/project/product_managment/docs/PRD研发文档/应用菜单目录/ |
+| PRD 文档目录 | /System/Volumes/Data/Users/wenbo/Documents/文档仓库/产品管理项目/PRD/ |
 | 本地工作目录 | /Volumes/MOVESPEED/Data/个人核心/05_AgentOutput/agent_work/产品管理方案团队/ |
 | Neo4j 连接 | bolt://localhost:7687 (neo4j/password123) |
 

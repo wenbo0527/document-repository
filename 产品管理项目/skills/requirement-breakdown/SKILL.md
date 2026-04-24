@@ -108,10 +108,10 @@ EOF
 
 ```bash
 # 3.1 生成Master PRD
-# 路径: PRD研发文档/04_MasterPRD/
+# 路径: PRD/EPIC文档/
 
 # 3.2 生成Feature级详情
-# 路径: PRD研发文档/04_MasterPRD/{产品域}/{Epic}/
+# 路径: PRD/EPIC文档/{产品域}/{Epic}/
 
 # 3.3 补充Story级拆分
 ```
@@ -120,7 +120,7 @@ EOF
 
 ```bash
 # 4.1 按Checklist检查文档完整性
-# 路径: PRD研发文档/00_架构与规范/02_模板/PRD完整性Checklist.md
+# 路径: SOP/SOP-Checklist-.md
 
 # 4.2 生成缺口清单
 # 4.3 补充缺失内容
@@ -201,7 +201,7 @@ Step 8: health_check 验证
 
 ```bash
 # 文档路径
-/Users/wenbo/Documents/project/data_community/docs/key-project-docs/
+/System/Volumes/Data/Users/wenbo/Documents/文档仓库/产品管理项目/PRD/
 ```
 
 文档读完后，明确：
@@ -456,9 +456,9 @@ python3 health_check.py
 
 | 用途 | 路径 |
 |:---|:---|
-| 需求文档 | `/Users/wenbo/Documents/project/data_community/docs/key-project-docs/` |
+| 需求文档 | `/System/Volumes/Data/Users/wenbo/Documents/文档仓库/产品管理项目/PRD/` |
 | 前端代码 | `/Users/wenbo/Documents/project/data_community/src/` |
-| PRD文档 | `/Users/wenbo/Documents/project/product_managment/docs/PRDs/PRD研发文档/` |
+| PRD文档 | `/System/Volumes/Data/Users/wenbo/Documents/文档仓库/产品管理项目/PRD/` |
 | Neo4j | `bolt://localhost:7687` (neo4j/password123) |
 | 后端服务 | `/Users/wenbo/Documents/project/product_managment/backend-python/` |
 | health_check | `python3 health_check.py` |
