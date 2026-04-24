@@ -14,7 +14,7 @@
 |:---|:---|
 | Feature ID | FEAT-DEX-DASHBOARD-DETAIL |
 | Feature 名称 | 仪表盘详情 |
-| 所属 EPIC | EPIC-DEX-METRIC_DASHBOARD 指标仪表盘 |
+| 所属 EPIC | EPIC-DEX-METRIC_DASHBOARD 指标看板 |
 | 优先级 | P0 |
 | 状态 | 已上线 |
 
@@ -22,7 +22,7 @@
 
 ## 2. 概述
 
-仪表盘详情模块提供指标仪表盘相关的核心功能。
+仪表盘详情模块提供指标看板相关的核心功能。
 
 暂无 FP 数据。
 
