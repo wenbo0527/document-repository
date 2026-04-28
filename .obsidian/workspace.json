@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "6c2442c83f479ce7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4dc9ce146062e45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92c6c8bcd64566d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数字社区项目/数据发现/PRD-PDDFD-Phase1-三Epic汇总-v1.0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PRD-PDDFD-Phase1-三Epic汇总-v1.0"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "960dcf9aea4af972",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0ea438a294367a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2f9ab778c0f7611",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "56f3a2aa35e94c22",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "7b4f1add0e8511a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 529.5
+  },
+  "right": {
+    "id": "07d5d893bf112e76",
+    "type": "split",
+    "children": [
+      {
+        "id": "4065b2768ffa10a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2d6b5437ab0dc10",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数字社区项目/数字营销/权益中心/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "README 的反向链接列表"
+            }
+          },
+          {
+            "id": "b049eff7f33fa07d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数字社区项目/数字营销/权益中心/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "README 的出链列表"
+            }
+          },
+          {
+            "id": "66a1d4c9926db7ee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "40fbe6f0ab4ffc45",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "db2a11b6ce9dd6c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数字社区项目/数字营销/权益中心/README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "README 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "92c6c8bcd64566d3",
+  "lastOpenFiles": [
+    "数字社区项目/数字风险/外部数据生命周期/业务需求入口/外数评估MVP需求文档.md",
+    "数字社区项目/数字风险/外部数据生命周期/业务需求入口/外数评估需求文档.md",
+    "数字社区项目/数字风险/外部数据生命周期/业务需求入口/外数采购项目注册.md",
+    "数字社区项目/数字风险/外部数据生命周期/业务需求入口/分析报告管理系统完整需求文档.md",
+    "数字社区项目/数字风险/外部数据生命周期/产品操作手册/产品操作手册-外部数据生命周期.md",
+    "产品管理项目/架构规范/模板/09-产品操作手册模板.md",
+    "产品管理项目/架构规范/模板/06-PRD模板.md",
+    "数字社区项目/数字风险/外部数据生命周期/产品PRD/PRD-外部数据生命周期v1.0.md",
+    "产品管理项目/架构规范/SOP/文档走查机制.md",
+    "数字社区项目/数字风险/外部数据生命周期/产品PRD/PRD-数字风险产品域v1.0.md",
+    "产品管理项目/架构规范/模板/08-技术方案模板.md",
+    "数字社区项目/数字营销/权益中心/README.md",
+    "数字社区项目/数字营销/权益中心/产品PRD/权益管理平台项目说明文档.md",
+    "数字社区项目/数字营销/权益中心/技术方案/FEAT-MKT-BENEFIT-01/技术方案.md",
+    "数字社区项目/数字营销/权益中心/技术方案/FEAT-全局规则配置-0766/技术方案.md",
+    "产品管理项目/架构规范/模板/02-产品域说明文档模板.md",
+    "产品管理项目/架构规范/SOP/协作管理类/PD-COM交叉校验报告.md",
+    "产品管理项目/架构规范/SOP/产品管理类/SOP-S5-PRD生成与开发指导.md",
+    "产品管理项目/架构规范/SOP/产品管理类/SOP-S4-需求拆解.md",
+    "产品管理项目/架构规范/SOP/产品管理类/SOP-S3-需求分析.md",
+    "产品管理项目/架构规范/SOP/产品管理类/SOP-S2-产品域EPIC重建.md",
+    "产品管理项目/架构规范/SOP/产品管理类/SOP-S1-产品域初始化.md"
+  ]
+}

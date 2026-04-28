@@ -3,7 +3,7 @@
 > **版本**: v1.0
 > **日期**: 2026-03-13
 > **作者**: Tony Stark
-> **状态**: 规划中
+> **状态**: 已上线
 
 ---
 
@@ -11,7 +11,7 @@
 
 | 字段 | 内容 |
 |:---|:---|
-| Epic ID | EPIC-COM-PORTAL |
+| Epic ID | EPIC-COM_PORTAL_MANAGE |
 | Epic 名称 | 统一门户首页 |
 | 所属产品域 | PD-COM 数字社区 |
 | Epic 负责人 | Tony Stark |
