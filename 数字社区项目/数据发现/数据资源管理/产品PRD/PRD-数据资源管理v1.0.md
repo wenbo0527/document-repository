@@ -1,3 +1,18 @@
+---
+neo4j:
+  epic: "Epic:EPIC-DFD_xxx"
+feishu:
+  wiki: "V8KEfpg1vlkCZld"
+doc:
+  title: "PRD-数据资源管理v1.0"
+  version: "v3.3"
+  type: "PRD"
+  productDomain: "PD-DFD"
+  author: "Tony Stark"
+  createdAt: "2026-04-28"
+  updatedAt: "2026-04-29"
+---
+
 # PRD-数据资源管理 v1.0
 
 产品需求文档 (PRD)

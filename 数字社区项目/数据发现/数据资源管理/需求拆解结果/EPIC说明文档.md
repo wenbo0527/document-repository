@@ -1,3 +1,19 @@
+---
+neo4j:
+  epic: "Epic:EPIC-DFD_DATA_RESOURCE"
+feishu:
+  wiki: "V8KEfpg1vlkCZld"
+doc:
+  title: "数据资源管理 Epic说明文档"
+  version: "v3.3"
+  type: "EPIC说明文档"
+  productDomain: "PD-DFD"
+  epicKey: "Epic:EPIC-DFD_DATA_RESOURCE"
+  author: "Tony Stark"
+  createdAt: "2026-04-28"
+  updatedAt: "2026-04-29"
+---
+
 # EPIC-DFD_DATA_RESOURCE - 数据资源管理
 
 > **版本**: v2.1

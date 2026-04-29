@@ -1,3 +1,20 @@
+---
+neo4j:
+  epic: "Epic:EPIC-DFD_ASSET_OPERATE_TOOL"
+  feature: "FEAT-DFD-LINEAGE-ANALYSIS"
+feishu:
+  wiki: "V8KEfpg1vlkCZld"
+doc:
+  title: "FEAT-DFD-LINEAGE-ANALYSIS Feature说明文档"
+  version: "v3.3"
+  type: "Feature说明文档"
+  productDomain: "PD-DFD"
+  epicKey: "Epic:EPIC-DFD_ASSET_OPERATE_TOOL"
+  author: "Tony Stark"
+  createdAt: "2026-04-28"
+  updatedAt: "2026-04-29"
+---
+
 # FEAT-DFD-LINEAGE-ANALYSIS - Feature说明文档
 
 > **版本**: v2.2

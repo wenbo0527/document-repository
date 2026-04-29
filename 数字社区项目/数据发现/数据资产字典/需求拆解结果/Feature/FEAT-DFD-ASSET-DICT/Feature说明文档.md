@@ -1,3 +1,20 @@
+---
+neo4j:
+  epic: "Epic:EPIC-DFD_DATA_ASSET"
+  feature: "FEAT-DFD-ASSET-DICT"
+feishu:
+  wiki: "V8KEfpg1vlkCZld"
+doc:
+  title: "FEAT-DFD-ASSET-DICT Feature说明文档"
+  version: "v3.3"
+  type: "Feature说明文档"
+  productDomain: "PD-DFD"
+  epicKey: "Epic:EPIC-DFD_DATA_ASSET"
+  author: "Tony Stark"
+  createdAt: "2026-04-28"
+  updatedAt: "2026-04-29"
+---
+
 # FEAT-DFD-ASSET-DICT - Feature说明文档
 
 > **版本**: v1.0
