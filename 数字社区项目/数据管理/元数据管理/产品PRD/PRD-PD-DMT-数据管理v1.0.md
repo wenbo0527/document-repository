@@ -1,3 +1,19 @@
+---
+neo4j:
+  epic: "Epic:DMT:EPIC-DMT_METADATA"
+feishu:
+  wiki: "V8KEfpg1vlkCZld"
+doc:
+  title: "PRD-PD-DMT-数据管理v1.0.md"
+  version: "v1.0"
+  type: "PRD"
+  productDomain: "PD-DMT"
+  epicKey: "Epic:DMT:EPIC-DMT_METADATA"
+  author: "Tony Stark"
+  createdAt: "2026-04-29"
+  updatedAt: "2026-04-29"
+---
+
 # PRD-PD-DMT-数据管理v1.0
 
 产品需求文档 (PRD)

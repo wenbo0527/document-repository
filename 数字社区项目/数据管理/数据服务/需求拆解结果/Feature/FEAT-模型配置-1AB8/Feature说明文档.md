@@ -1,3 +1,20 @@
+---
+neo4j:
+  epic: "Epic:DMT:EPIC-DMT_SERVICE"
+  feature: "FEAT-模型配置-1AB8"
+feishu:
+  wiki: "V8KEfpg1vlkCZld"
+doc:
+  title: "Feature说明文档.md"
+  version: "v1.0"
+  type: "Feature说明文档"
+  productDomain: "PD-DMT"
+  epicKey: "Epic:DMT:EPIC-DMT_SERVICE"
+  author: "Tony Stark"
+  createdAt: "2026-04-29"
+  updatedAt: "2026-04-29"
+---
+
 # FEAT-模型配置-1AB8 - Feature说明文档
 
 > **版本**: v1.0

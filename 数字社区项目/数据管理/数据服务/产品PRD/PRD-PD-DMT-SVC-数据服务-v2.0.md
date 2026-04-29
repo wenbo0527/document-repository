@@ -1,3 +1,19 @@
+---
+neo4j:
+  epic: "Epic:DMT:EPIC-DMT_SERVICE"
+feishu:
+  wiki: "V8KEfpg1vlkCZld"
+doc:
+  title: "PRD-PD-DMT-SVC-数据服务-v2.0.md"
+  version: "v1.0"
+  type: "PRD"
+  productDomain: "PD-DMT"
+  epicKey: "Epic:DMT:EPIC-DMT_SERVICE"
+  author: "Tony Stark"
+  createdAt: "2026-04-29"
+  updatedAt: "2026-04-29"
+---
+
 # PRD-PD-DMT-SVC - 数据服务需求文档
 
 > **版本**: v2.0
