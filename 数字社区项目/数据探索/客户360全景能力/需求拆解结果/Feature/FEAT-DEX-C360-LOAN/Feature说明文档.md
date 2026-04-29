@@ -1,13 +1,13 @@
 ---
 neo4j:
   epic: "Epic:EPIC-DEX-CUSTOMER_360"
-  feature: "FEAT-DEX-C360-SEARCH"
+  feature: "FEAT-DEX-C360-LOAN"
 feishu:
   wiki: "V8KEfpg1vlkCZld"
 doc:
-  title: "客户360搜索 Feature说明文档"
+  title: "贷款记录管理 Feature说明文档"
   version: "v1.0"
-  status: "completed"
+  status: "backlog"
   productDomain: "PD-DEX"
   epicKey: "EPIC-DEX-CUSTOMER_360"
   author: "Tony Stark"
@@ -15,12 +15,12 @@ doc:
   updatedAt: "2026-04-29"
 ---
 
-# FEAT-DEX-C360-SEARCH - 客户360搜索
+# FEAT-DEX-C360-LOAN - 贷款记录管理
 
 > **版本**: v1.0
 > **日期**: 2026-04-29
 > **作者**: Tony Stark
-> **状态**: completed
+> **状态**: backlog
 
 ---
 
@@ -28,20 +28,20 @@ doc:
 
 | 字段 | 内容 |
 |:---|:---|
-| Feature ID | FEAT-DEX-C360-SEARCH |
-| Feature URI | Feature:FEAT-DEX-C360-SEARCH |
-| Feature 名称 | 客户360搜索 |
+| Feature ID | FEAT-DEX-C360-LOAN |
+| Feature URI | Feature:FEAT-DEX-C360-LOAN |
+| Feature 名称 | 贷款记录管理 |
 | 所属 Epic | EPIC-DEX-CUSTOMER_360 客户360全景能力 |
 | 所属产品域 | PD-DEX 数据探索 |
 | 负责人 | - |
-| Story数 | 4 |
+| Story数 | 3 |
 
 ---
 
 ## 2. Feature 概述
 
 ### 2.1 是什么
-客户360搜索模块提供客户信息的查询入口，支持精确搜索和模糊搜索，快速定位目标客户并跳转详情页。
+贷款记录管理模块展示客户的贷款详情、还款明细、还款计划、放款记录。
 
 ### 2.2 解决什么问题
 - 功能模块开发中，待补充具体痛点
@@ -58,7 +58,7 @@ doc:
 
 ```mermaid
 flowchart TB
-    subgraph 页面["客户360搜索"]
+    subgraph 页面["贷款记录管理"]
         P_MAIN["主页面"]
     end
 
@@ -73,7 +73,7 @@ flowchart TB
 
 | 页面 | 路由 | 组件 | 说明 |
 |:---|:---|:---|:---|
-| 客户360搜索 | /discovery/customer360/detail | 客户360搜索Page | 主功能页 |
+| 贷款记录管理 | /discovery/customer360/detail | 贷款记录管理Page | 主功能页 |
 
 ### 3.2 组件说明
 
@@ -89,10 +89,9 @@ flowchart TB
 
 | 功能点 | 类型 | 描述 |
 |:---|:---|:---|
-| FP-001 | 页面 | 客户搜索 |
-| FP-002 | 页面 | 搜索结果 |
-| FP-003 | 页面 | 精确搜索 |
-| FP-004 | 页面 | 模糊搜索 |
+| FP-001 | 页面 | 还款明细 |
+| FP-002 | 页面 | 还款计划 |
+| FP-003 | 页面 | 放款记录 |
 
 
 ### 4.2 用户流程
