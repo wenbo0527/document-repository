@@ -33,7 +33,7 @@ doc:
 | Feature 名称 | 客户360详情 |
 | 所属 Epic | EPIC-DEX-CUSTOMER_360 客户360全景能力 |
 | 所属产品域 | PD-DEX 数据探索 |
-| 负责人 | - |
+| 负责人 | Tony Stark |
 | Story数 | 4 |
 
 ---

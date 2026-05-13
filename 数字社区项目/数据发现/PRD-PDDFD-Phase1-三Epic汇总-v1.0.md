@@ -12,8 +12,8 @@
 ```yaml
 ---
 产品域: PD-DFD - 数据发现
-Epic: 统一搜索 / 数据要素字典 / 数据资产字典
-Epic URI: EPIC-DFD_UNIFIED_SEARCH / EPIC-DFD_DATA_ELEMENT / EPIC-DFD_DATA_ASSET
+Epic: 统一搜索 / 数据要素市场 / 数据资产字典
+Epic URI: EPIC-DFD-SEARCH / EPIC-DFD-ELEMENT / EPIC-DFD-ASSET
 PRD 版本: v1.0
 创建日期: 2026-04-27
 审核人: 待定
@@ -33,6 +33,7 @@ PRD 版本: v1.0
 | 2026-04-27 | 1.3.0 | Tony Stark | 关联搜索增强：四类高级搜索均支持关联标签跳转（指标→变量→特征→资产） |
 | 2026-04-27 | 1.4.0 | Tony Stark | 统一高级搜索：4个独立Story合并为各列表页独立集成，交互说明统一复用「通用高级搜索组件」 |
 | 2026-04-28 | 1.9.0 | Tony Stark | 根据详情页信息清单，更新指标/变量/特征三个详情Story，补充实际字段信息（Tab结构、数据质量、状态标签等） |
+| 2026-05-12 | 2.0.0 | Tony Stark | EPIC走读修复：Epic ID统一（EPIC-DFD-SEARCH/ELEMENT/ASSET）；Story ID统一（指标/变量/特征详情改为IL-003/VL-003/CL-003）；Epic 2标题改为"数据要素市场" |
 
 ---
 
@@ -40,7 +41,7 @@ PRD 版本: v1.0
 
 ### 3.1 目标
 
-数据发现域旨在帮助用户高效地发现、理解和管理企业数据资产。一期聚焦三个核心模块：**统一搜索**、**数据要素字典**、**数据资产字典**，构建数据资产的单点查找与详情查看能力。
+数据发现域旨在帮助用户高效地发现、理解和管理企业数据资产。一期聚焦三个核心模块：**统一搜索**、**数据要素市场**、**数据资产字典**，构建数据资产的单点查找与详情查看能力。
 
 ### 3.2 痛点
 
@@ -81,7 +82,7 @@ PRD 版本: v1.0
 
 ---
 
-### Epic 1：统一搜索（EPIC-DFD_UNIFIED_SEARCH）
+### Epic 1：统一搜索（EPIC-DFD-SEARCH）
 
 **路由**: `/discovery/data-map`
 
@@ -462,7 +463,7 @@ PRD 版本: v1.0
 - 工单创建后通知负责人
 - 工单处理完成后通知提交用户
 
-### Epic 2：数据要素字典（EPIC-DFD_DATA_ELEMENT）
+### Epic 2：数据要素市场（EPIC-DFD-ELEMENT）
 
 **路由**: `/discovery/metrics-map` `/discovery/variable-map` `/discovery/feature-map`
 
@@ -478,6 +479,7 @@ PRD 版本: v1.0
 |:---|:---|:---:|:---:|
 | Story-IL-001 | 指标地图浏览 | P0 | 待开发 |
 | Story-IL-002 | 指标搜索与筛选 | P0 | 待开发 |
+| Story-IL-003 | 指标详情查看 | P0 | 待开发 |
 
 **Story IL-001：指标地图浏览**
 
@@ -522,7 +524,7 @@ PRD 版本: v1.0
 
 ---
 
-**Story ID-001：指标详情查看**
+**Story IL-003：指标详情查看**
 
 | 字段 | 内容 |
 |:---|:---|
@@ -558,7 +560,7 @@ PRD 版本: v1.0
 |:---|:---|:---:|:---:|
 | Story-VL-001 | 变量地图浏览 | P0 | 待开发 |
 | Story-VL-002 | 变量搜索与筛选 | P0 | 待开发 |
-| Story VD-001 | 变量详情查看 | P0 | 待开发 |
+| Story VL-003 | 变量详情查看 | P0 | 待开发 |
 
 **Story VL-001：变量地图浏览**
 
@@ -603,7 +605,7 @@ PRD 版本: v1.0
 
 ---
 
-**Story VD-001：变量详情查看**
+**Story VL-003：变量详情查看**
 
 | 字段 | 内容 |
 |:---|:---|
@@ -643,7 +645,7 @@ PRD 版本: v1.0
 |:---|:---|:---:|:---:|
 | Story-CL-001 | 特征地图浏览 | P0 | 待开发 |
 | Story-CL-002 | 特征搜索与筛选 | P0 | 待开发 |
-| Story CD-001 | 特征详情查看 | P0 | 待开发 |
+| Story CL-003 | 特征详情查看 | P0 | 待开发 |
 
 **Story CL-001：特征地图浏览**
 
@@ -665,7 +667,7 @@ PRD 版本: v1.0
 
 ---
 
-**Story CD-001：特征详情查看**
+**Story CL-003：特征详情查看**
 
 | 字段 | 内容 |
 |:---|:---|
@@ -713,7 +715,7 @@ PRD 版本: v1.0
 
 ---
 
-### Epic 3：数据资产字典（EPIC-DFD_DATA_ASSET）
+### Epic 3：数据资产字典（EPIC-DFD-ASSET）
 
 **路由**: `/discovery/data-map/table-list`
 
