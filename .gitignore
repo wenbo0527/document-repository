@@ -1,4 +1,6 @@
+# Docs-only repo, mostly ignored
 .DS_Store
-*.swp
+.vscode/
+.idea/
 *.tmp
-临时文件/
+*.bak
